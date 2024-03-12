@@ -3,6 +3,7 @@
 
 <p align="center">
 - 🔭 I’m currently working on front-end projects
+  
 - 🌱 I’m currently learning JavaScript, React, &  Tailwind CSS
 </p>
 
