@@ -1,9 +1,11 @@
 <h1 align="center">Hi there, 👋 I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from New Zealand!</h3>
 
+<p align="center">
 - 🔭 I’m currently working on front-end projects
 - 🌱 I’m currently learning JavaScript, React, &  Tailwind CSS
-- 
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
