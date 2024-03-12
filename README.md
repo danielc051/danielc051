@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from New Zealand!</h3>
 
 <div align="center">
-🔭 I’m currently working on front-end projects
+🔭 I’m currently working on building front-end projects
 
-🌱 I’m currently learning JavaScript, React, &  Tailwind CSS
+🌱 I’m currently improving my skills in JavaScript, React, &  Tailwind CSS
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
