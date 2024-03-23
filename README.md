@@ -10,7 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,py,postgres,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,node,js,html,css,tailwind,py,postgres,git,vscode" />
   </a>
 </p>
 
