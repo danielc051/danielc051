@@ -3,7 +3,7 @@
 <div align="left">
 🔭 I’m currently working on building front-end projects
 
-🌱 I’m currently improving my skills in React, Node.js, JavaScript, &  Tailwind CSS
+🌱 I’m currently improving my skills in JavaScript, React, & Node.js 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
