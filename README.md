@@ -3,10 +3,28 @@
 
 I’m currently working as a Software Engineer actively building projects to deepen expertise in modern technologies and stay current with industry advancements.
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator%20Associate-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Power%20Platform%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-power-platform&logoColor=white" />
+</div>
+
+## Cloud & Automation Tools
+<div>
+    
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoCo)
+![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ## Skills & Projects
 
-| Skills                                                              | Project |
+| Skills                                                              | Associated Project |
 |------------------------------------------------------------------------|------|
 | Microsoft Azure – Manage Entra ID Identities                          | <a href="https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.md">Manage Entra ID Identities</a> |
 | Microsoft Azure – Manage Subscriptions and Role Based Access Control (Entra ID)               | <a href="https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.md">Manage Subscriptions and RBAC</a> |
@@ -25,22 +43,4 @@ I’m currently working as a Software Engineer actively building projects to dee
 
 </div>
 
-## Cloud & Automation Tools
-<div>
-    
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator%20Associate-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Power%20Platform%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-power-platform&logoColor=white" />
-</div>
