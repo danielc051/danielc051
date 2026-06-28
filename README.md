@@ -5,11 +5,14 @@ I’m currently working as a Software Engineer actively building projects to dee
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Power%20Platform%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-power-platform&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Administrator%20Associate-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Solutions%20Architect%20Expert-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/-HashiCorp%20Terraform%20Associate%20(003)-5835CC?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform%20Associate%20(003)-5835CC?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluent%20Data%20Streaming%20Engineer-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>
 
 ## Cloud & Automation Tools
